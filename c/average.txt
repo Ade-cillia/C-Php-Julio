@@ -1,0 +1,4 @@
+Note(s) de l'eleve [Index:1][Prénom:teest][Nombre de notes:1] : | 2.00 | 
+Moyenne de l'eleve [Index:1][Prénom:teest] : 2.00
+
+Note(s) de l'eleve [Index:2][Prénom:lui][Nombre de notes:0] : Aucune note n'a ete saisie Note(s) de l'eleve [Index:3][Prénom:teest][Nombre de notes:0] : Aucune note n'a ete saisie Moyenne generale : 2.00
